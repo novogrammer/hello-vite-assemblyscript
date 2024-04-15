@@ -2,6 +2,8 @@
 
 assemblyscriptを使ってみる。
 
+demo https://novogrammer.github.io/hello-vite-assemblyscript/
+
 
 ## 環境構築
 
@@ -15,12 +17,18 @@ npm install
 npm run asbuild
 ```
 
+## AssemblyScriptのテスト
+
+```bash
+npm run test
+```
 
 ## 開発
 
 ```bash
 npm run dev
 ```
+
 
 ## ビルドとプレビュー
 
